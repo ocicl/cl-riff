@@ -1,0 +1,10 @@
+* cl-riff
+
+Reads Resource Interchange File Format (RIFF) files from Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-riff.git   |
+| commit  | bc37d82  |
+| systems | cl-riff |
+|---------+-------------------------------------------|
+
